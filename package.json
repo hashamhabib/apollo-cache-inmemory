@@ -9,7 +9,7 @@
   "dependencies": {
     "apollo-cache": "git+https://github.com/hashamhabib/apollo-cache.git",
     "apollo-utilities": "git+https://github.com/hashamhabib/apollo-utilities.git",
-    "optimism": "^0.6.6"
+    "optimism": "git+https://github.com/hashamhabib/optimism.git"
   },
   "repository": {
     "type": "git",
